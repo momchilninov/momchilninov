@@ -1,8 +1,10 @@
-### <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/gifs/wave.gif"/> Hi there
+### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="wavehand" width="30" height="30"/> Hi there!
 
-# Hello, World! 👋
+I'm [Momchil Ninov], 
 
-I'm [Your Name], a passionate Data Scientist 📊🔬 with a love for turning data into actionable insights. Welcome to my GitHub profile! 
+
+
+A passionate Data Scientist 📊🔬 with a love for turning data into actionable insights.
 
 <i class="fab fa-python"></i> Python
 
