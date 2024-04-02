@@ -1,6 +1,6 @@
 ### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="wavehand" width="30" height="30"/> Hi there!
 
-I'm [Momchil Ninov], 
+I'm [Momchil Ninov](https://www.linkedin.com/in/momchil-n-a9723433/), 
 
 
 
