@@ -26,7 +26,7 @@ A passionate Data Scientist 📊🔬 with a love for turning data into actionabl
 
 ## Let's Connect! 🌐
 
-- 📧 [Email](mninov14@gmail.com)
+- 📧 Email: mninov14@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/momchil-n-a9723433/)
 
 ## Fun Facts 🎉
