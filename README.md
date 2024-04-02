@@ -3,10 +3,7 @@
 I'm [Momchil Ninov](https://www.linkedin.com/in/momchil-n-a9723433/), 
 
 
-
 A passionate Data Scientist 📊🔬 with a love for turning data into actionable insights.
-
-<i class="fab fa-python"></i> Python
 
 ## About Me ℹ️
 
