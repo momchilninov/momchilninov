@@ -17,29 +17,46 @@ A passionate Data Scientist 📊🔬 with a love for turning data into actionabl
 
 ## Tech Stack 💻
 
-- **Languages:** <i class="fab fa-python"></i> Python, R
-- **Data Analysis:** Pandas, NumPy, SciPy
-- **Machine Learning:** Scikit-learn, TensorFlow, Keras
-- **Visualization:** Matplotlib, Seaborn, Plotly
-- **Big Data Tools:** Apache Spark, Hadoop
-- **Database:** SQL, MongoDB
-- **Others:** Git, Jupyter Notebooks, Docker
+- **Languages:** <i class="fab fa-python"></i> Python, 
+- **Data Analysis:** Pandas, NumPy
+- **Machine Learning:** Scikit-learn
+- **Visualization:** Matplotlib, Seaborn
+- **Database:** SQL
+- **Others:** Git, Jupyter Notebooks
 
 ## Let's Connect! 🌐
 
-- 📧 Email: your.email@example.com
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile/)
-- 🐦 Twitter: [Your Twitter Profile](https://twitter.com/yourhandle)
+- 📧 [Email](mninov14@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/momchil-n-a9723433/)
 
 ## Fun Facts 🎉
 
-- I'm a huge fan of 🎵 music, 📚 books, and ☕ coffee.
 - I enjoy exploring the great outdoors 🏞️ whenever I get the chance.
 - Ask me about my latest data-driven project, I'd love to share!
 
 ![Waving Hand](https://media.giphy.com/media/l0MYQwkdFp8iMvnrG/giphy.gif)
 
 Don't hesitate to reach out if you have any questions, project ideas, or just want to chat! Let's collaborate and make some data magic happen! 🚀
+
+
+
+
+
+
+<!--
+**momchilninov/momchilninov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 
 
 ```yaml
@@ -70,20 +87,4 @@ Don't hesitate to reach out if you have any questions, project ideas, or just wa
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
 
 
-
-
-<!--
-**momchilninov/momchilninov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
