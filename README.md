@@ -30,7 +30,7 @@ A passionate Data Scientist 📊🔬 with a love for turning data into actionabl
 
 - I enjoy exploring the great outdoors 🏞️ whenever I get the chance.
 - Ask me about my latest data-driven project, I'd love to share!
-- 
+ 
 Don't hesitate to reach out if you have any questions, project ideas, or just want to chat! Let's collaborate and make some data magic happen! 🚀
 
 <!--
