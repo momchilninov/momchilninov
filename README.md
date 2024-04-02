@@ -33,15 +33,8 @@ A passionate Data Scientist 📊🔬 with a love for turning data into actionabl
 
 - I enjoy exploring the great outdoors 🏞️ whenever I get the chance.
 - Ask me about my latest data-driven project, I'd love to share!
-
-![Waving Hand](https://media.giphy.com/media/l0MYQwkdFp8iMvnrG/giphy.gif)
-
+- 
 Don't hesitate to reach out if you have any questions, project ideas, or just want to chat! Let's collaborate and make some data magic happen! 🚀
-
-
-
-
-
 
 <!--
 **momchilninov/momchilninov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
