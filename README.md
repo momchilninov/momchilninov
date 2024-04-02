@@ -8,7 +8,7 @@ A passionate Data Scientist 📊🔬 with a love for turning data into actionabl
 ## About Me ℹ️
 
 - 👨‍💻 Currently exploring the realms of Data Science, Machine Learning, and AI.
-- 🎓 Studying [Your Degree or Current Learning Path].
+<!--- 🎓 Studying [Your Degree or Current Learning Path]. -->
 - 💼 Actively seeking opportunities to apply my skills in real-world projects.
 - 🌱 Learning something new every day and staying curious!
 
